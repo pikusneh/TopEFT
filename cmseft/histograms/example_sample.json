@@ -1,0 +1,12 @@
+{
+  "xsec": 831.76,
+  "year": "2023",
+  "treeName": "Events",
+  "histAxisName": "ttbar",
+  "options": "",
+  "files": [
+    "nanogen_123.root"
+  ],
+  "nSumOfWeights": 316.38572751851825,
+  "isData": false
+}
